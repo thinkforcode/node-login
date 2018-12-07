@@ -1,0 +1,31 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "this is the login system using nodejs ejs and jquery and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinkforcode/node-login.git"
+  },
+  "keywords": [
+    "nodej",
+    "jquery",
+    "ejs",
+    "expressjs",
+    "etc"
+  ],
+  "author": "Manmohan Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thinkforcode/node-login/issues"
+  },
+  "homepage": "https://github.com/thinkforcode/node-login#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.15"
+  }
+}
